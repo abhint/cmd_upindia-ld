@@ -10,7 +10,7 @@ def banner():
   / ____ \| |_) | |  | |_| |_
  /_/    \_\____/|_|  |_|_____|
         © ABHIJITH N T
-https://github.com/Abhijith-cloud
+https://github.com/AbhijithNT/
 """
 print(banner())
 
